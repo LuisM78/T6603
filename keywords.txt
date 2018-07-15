@@ -6,15 +6,15 @@
 # Datatypes (KEYWORD1)
 #######################################
 
-T6603		KEYWORD1
+T6603	KEYWORD1
 
 
 #######################################
 # Methods and Functions (KEYWORD2)
 #######################################
 
-begin		KEYWORD2
-get_co2		KEYWORD2
+begin	KEYWORD2
+get_co2	KEYWORD2
 get_status	KEYWORD2
 set_idle	KEYWORD2
 
